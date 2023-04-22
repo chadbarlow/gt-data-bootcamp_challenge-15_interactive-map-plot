@@ -8,14 +8,14 @@ The map is live at: https://interactive-map-plot.github.io/live/
   <img src="https://user-images.githubusercontent.com/8321756/233791996-978c43e6-c9e8-415b-a61f-2beaf0ae4635.png" alt="Interactive map plot">
 </a>
 
-## Tools
-- Leaflet.js for map rendering and interactivity
-- D3.js for connecting to the USGS GeoJSON API and manipulating data
-- HTML and JavaScript for structuring and coding the web application
-
 ## Features
 - Interactive map 
 - Real-time data from USGS GeoJSON Feed
 - Data markers reflecting earthquake magnitude and depth
 - Popups with additional information about each earthquake
 - Legend providing context for map data
+
+## Dev Tools
+- Leaflet.js for map rendering and interactivity
+- D3.js for connecting to the USGS GeoJSON API and manipulating data
+- HTML and JavaScript for structuring and coding the web application
