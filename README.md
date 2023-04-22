@@ -2,9 +2,11 @@
 
 The purpose of this project is to create a user-friendly and interactive visualization tool for earthquake data provided by the United States Geological Survey (USGS). The main goals are to help users explore earthquake data and understand the magnitude, depth, and location of seismic events. The tool can be used to educate the public and other government organizations about earthquake-related issues and support further research and analysis.
 
-The deliverable is live at: https://interactive-map-plot.github.io/live/
+The map is live at: https://interactive-map-plot.github.io/live/
 
-![Screen Shot 2023-04-22 at 10 58 18 AM](https://user-images.githubusercontent.com/8321756/233791996-978c43e6-c9e8-415b-a61f-2beaf0ae4635.png)
+<a href="https://interactive-map-plot.github.io/live/">
+  <img src="https://user-images.githubusercontent.com/8321756/233791996-978c43e6-c9e8-415b-a61f-2beaf0ae4635.png" alt="Interactive map plot">
+</a>
 
 ## Tools
 - Leaflet.js for map rendering and interactivity
