@@ -4,6 +4,8 @@ The purpose of this project is to create a user-friendly and interactive visuali
 
 The deliverable is live at: https://interactive-map-plot.github.io/live/
 
+![Screen Shot 2023-04-22 at 10 58 18 AM](https://user-images.githubusercontent.com/8321756/233791996-978c43e6-c9e8-415b-a61f-2beaf0ae4635.png)
+
 ## Tools
 - Leaflet.js for map rendering and interactivity
 - D3.js for connecting to the USGS GeoJSON API and manipulating data
