@@ -17,5 +17,6 @@ The map is live at: https://interactive-map-plot.github.io/live/
 
 ## Dev Tools
 - Leaflet.js for map rendering and interactivity
-- D3.js for connecting to the USGS GeoJSON API and manipulating data
+- GeoJSON API for real-time geospatial data 
+- D3.js for connecting and manipulating data
 - HTML and JavaScript for structuring and coding the web application
