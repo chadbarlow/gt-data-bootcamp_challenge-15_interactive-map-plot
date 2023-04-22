@@ -1,4 +1,4 @@
-<h1 align="left"> INTERACTIVE WEB DASHBOARD<br><i>Topic: Belly Button Biodiversity</i> </h1> 
+<h1 align="left"> INTERACTIVE MAP PLOT<br><i>Topic: Earthquakes</i> </h1> 
 
 The purpose of this project is to create a user-friendly and interactive visualization tool for earthquake data provided by the United States Geological Survey (USGS). The main goals are to help users explore earthquake data and understand the magnitude, depth, and location of seismic events. The tool can be used to educate the public and other government organizations about earthquake-related issues and support further research and analysis.
 
